@@ -1,0 +1,8 @@
+Fazer deploy
+
+atualizar o requirements.txt
+pip freeze > .\requirements.txt
+
+publicar no git
+git init
+git add . //para subir todo projeto//
